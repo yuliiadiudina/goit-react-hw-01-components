@@ -1,0 +1,28 @@
+.item {     
+    width: 350px;
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    background-color: #f99898;
+    font-size: 25px;
+    border-radius: 15px;
+    gap: 10px;
+}
+.iconOnline {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: rgb(238, 105, 105);
+}
+.iconOffline {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: rgb(55, 197, 55);
+}
+
+
+.name {
+    font-size: 20px;
+    color: rgb(54, 54, 54);
+}
